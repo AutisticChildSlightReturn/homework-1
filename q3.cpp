@@ -42,10 +42,10 @@ int main()
     // HOMEWORK TODO 2: give the results of each function call
 
     exampleFunction(5, true);
-    // result 1: 5 is printed
+    // result 1: param1 is 5
 
     exampleFunction(10, false);
-    // result 2: nothing is printed
+    // result 2: param1 is not printed
 
     bool result = secret(3, 4, false);
     // result 3: result is false
